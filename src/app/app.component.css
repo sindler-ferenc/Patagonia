@@ -1,0 +1,14 @@
+.variable-binding,
+.variable-textarea {
+  width: 49%;
+}
+
+.variable-textarea {
+  min-height: 420px;
+  padding: 8px;
+}
+
+.variable-binding {
+  display: block;
+  float: right;
+}
